@@ -6,4 +6,4 @@ get-ip | Returns IP Address
 
 get-geo | Returns Location
 
-get-conn | Get's the ammount of connections
+get-conn | Prints Connections
